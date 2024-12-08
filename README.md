@@ -11,6 +11,6 @@
  💠 Web Servers: Apache • Tomcat • WebSphere\
  💠 Database Development: MySQL • Oracle • DB2 • PL/SQL\
  💠 Integration: REST • SOAP • Enterprise Integration • CI/CD\
- 💠 Other: BPM • ECM • Spring • Hibernate • MicroServices • Docker • OOP\
+ 💠 Other: BPM • ECM • Spring • Hibernate • MicroServices • Docker • OOP
 
  
